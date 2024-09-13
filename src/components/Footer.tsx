@@ -78,7 +78,9 @@ function Footer() {
           <p>Phone: (123) 456-7890</p>
         </div>
       </div>
-      <p className="text-center pt-8 text-xs lg:text-2xl hover:underline">2024 Music School.All right reseved.</p>
+      <p className="text-center pt-8 text-xs lg:text-2xl hover:underline">
+        2024 Music School.All right reseved.
+      </p>
     </footer>
   );
 }
